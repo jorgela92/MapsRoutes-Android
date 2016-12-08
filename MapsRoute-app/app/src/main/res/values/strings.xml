@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Maps Route</string>
+    <string name="acces_string">Acceso</string>
+    <string name="user_string">Usuario</string>
+    <string name="pass_string">Contraseña</string>
+    <string name="buton_enter_string">Entrar</string>
+    <string name="acces_button">Acceder</string>
+    <string name="routes">Rutas</string>
+    <string name="points">Puntos</string>
+    <string name="location">Localizacion</string>
+    <string name="route">RUTA</string>
+    <string name="title_rute">Titulo de ruta</string>
+    <string name="description_route">Descripicion de ruta</string>
+    <string name="ok">Aceptar</string>
+    <string name="end_route">Terminar ruta</string>
+</resources>

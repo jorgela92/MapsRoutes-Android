@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+    </style>
+    <style name="Color1SwitchStyle" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/colorAccent</item>
+    </style>
+    <style name="Hint" parent="TextAppearance.Design.Hint">
+        <item name="android:textColor">@color/colorWhiteDarck</item>
+    </style>
+    <style name="Error" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/colorError</item>
+        <item name="android:editTextBackground">@color/colorWhiteDarck</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+</resources>
